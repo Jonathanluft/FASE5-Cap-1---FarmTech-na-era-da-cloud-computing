@@ -21,12 +21,31 @@
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/inova-fusca">ANDRÉ GODOI CHIOVATO</a>
 
+## 🔧 Análise e Construção de Modelos
 
-Link para o nosso notebook colab:
+Nosso projeto consiste na análise e construção de modelos de predição com base em um arquivo .csv em que temos informações de ambiente e sobre resultados se 4 grupos de culturas.
+As ferramentas utilizadas para a essa leitura são: 
+
+**Linguagens:**
+- Python
+
+**Bibliotecas:**
+- Scikit-learn
+- Pandas
+- MatPlotLib
+- Seaborn
+- Numpy
+
+**Plataforma:**
+- Google Colab
+
+Para conferir e rodar o código, basta que você acesse o link de nosso Colab abaixo e, clicando no simbolo de pasta no canto esquerdo da tela, anexe o arquivo csv que deixamos em anexo neste repositório (crop_yield.csv)
+
+Link para o nosso notebook no Google Colab:
 - <a href="https://colab.research.google.com/drive/1X1vuIPBoZQW58g0KXeV9qYC9JwHUDQ6E?usp=sharing">Google Colab</a>
 
 
-------------------------------*CUSTOS AWS*--------------------------------------
+## 📜 CUSTOS AWS
 
 [My Estimate - Calculadora de Preços da AWS_SP2.pdf](https://github.com/user-attachments/files/22224546/My.Estimate.-.Calculadora.de.Precos.da.AWS_SP2.pdf)
 
