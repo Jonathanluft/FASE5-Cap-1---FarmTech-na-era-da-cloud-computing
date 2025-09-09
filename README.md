@@ -29,9 +29,10 @@ Link para o nosso notebook colab:
 ------------------------------*CUSTOS AWS*--------------------------------------
 
 
-<img width="678" height="617" alt="Captura de tela 2025-09-08 211748" src="https://github.com/user-attachments/assets/bc34f50c-00c7-4069-af2d-b5831faebf46" />
-<img width="663" height="621" alt="Captura de tela 2025-09-08 211756" src="https://github.com/user-attachments/assets/c581eac4-110d-4895-bf39-5dba8e05ff25" />
 
-[My Estimate - Calculadora de Preços da AWS_sao_paulo.pdf](https://github.com/user-attachments/files/22223555/My.Estimate.-.Calculadora.de.Precos.da.AWS_sao_paulo.pdf)
+[My Estimate - Calculadora de Preços da AWS_SP2.pdf](https://github.com/user-attachments/files/22224546/My.Estimate.-.Calculadora.de.Precos.da.AWS_SP2.pdf)
+[My Estimate - Calculadora de Preços da AWS_virginia2.pdf](https://github.com/user-attachments/files/22224547/My.Estimate.-.Calculadora.de.Precos.da.AWS_virginia2.pdf)
 
-[My Estimate - Calculadora de Preços da AWS.pdf](https://github.com/user-attachments/files/22223554/My.Estimate.-.Calculadora.de.Precos.da.AWS.pdf)
+<img width="666" height="623" alt="Captura de tela 2025-09-08 225659" src="https://github.com/user-attachments/assets/566d4ab4-2161-4c6a-9686-32d71734a246" />
+<img width="647" height="621" alt="Captura de tela 2025-09-08 225705" src="https://github.com/user-attachments/assets/681aa2b4-cac3-488d-8c8f-23cd4a47c310" />
+
