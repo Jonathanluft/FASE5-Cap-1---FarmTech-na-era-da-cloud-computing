@@ -1,1 +1,0 @@
-# FASE4-Cap-1---FarmTech-na-era-da-cloud-computing
