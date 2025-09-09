@@ -22,6 +22,8 @@
 - <a href="https://www.linkedin.com/company/inova-fusca">ANDRÉ GODOI CHIOVATO</a>
 
 
+Link para o nosso notebook colab:
+- <a href="https://colab.research.google.com/drive/1X1vuIPBoZQW58g0KXeV9qYC9JwHUDQ6E?usp=sharing">Google Colab</a>
 
 
 ------------------------------*CUSTOS AWS*--------------------------------------
