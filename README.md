@@ -29,3 +29,5 @@
 
 <img width="678" height="617" alt="Captura de tela 2025-09-08 211748" src="https://github.com/user-attachments/assets/bc34f50c-00c7-4069-af2d-b5831faebf46" />
 <img width="663" height="621" alt="Captura de tela 2025-09-08 211756" src="https://github.com/user-attachments/assets/c581eac4-110d-4895-bf39-5dba8e05ff25" />
+[My Estimate - Calculadora de Preços da AWS_sao_paulo.pdf](https://github.com/user-attachments/files/22223555/My.Estimate.-.Calculadora.de.Precos.da.AWS_sao_paulo.pdf)
+[My Estimate - Calculadora de Preços da AWS.pdf](https://github.com/user-attachments/files/22223554/My.Estimate.-.Calculadora.de.Precos.da.AWS.pdf)
