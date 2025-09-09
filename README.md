@@ -20,3 +20,6 @@
 - <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Ruiz Orabona</a>
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/inova-fusca">ANDRÉ GODOI CHIOVATO</a>
+------------------------------*CUSTOS AWS*--------------------------------------
+[My Estimate - Calculadora de Preços da AWS.pdf](https://github.com/user-attachments/files/22223537/My.Estimate.-.Calculadora.de.Precos.da.AWS.pdf)
+[My Estimate - Calculadora de Preços da AWS_sao_paulo.pdf](https://github.com/user-attachments/files/22223538/My.Estimate.-.Calculadora.de.Precos.da.AWS_sao_paulo.pdf)
